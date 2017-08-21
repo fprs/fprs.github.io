@@ -21,7 +21,7 @@ Venison pork loin meatball ham beef ribeye.
 
 ```
 def bacon(yum)
-  return 'mmmmmm'
+  return 'omnomnom'
 ```
 
 ### Lists
